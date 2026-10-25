@@ -19,6 +19,10 @@ I build automations that take the manual work off a team's plate: CRM setup, lea
 
 Before automation, I spent 6+ years in high-volume customer service with Comcast, AT&T, and Capital One. That's where I learned how slow systems, bad routing, and missed follow-ups hurt customers and teams. So I map the manual process first, then build it and test the cases that usually break: missing fields, invalid numbers, duplicate leads, and no-shows.
 
+### Open source
+
+[lead-intake-checks](https://github.com/jpmunozdev/lead-intake-checks) checks and cleans inbound leads before they reach the CRM: phone, email, name and duplicates. It runs in Node or as one file in an n8n Code node, and comes with 31 messy test leads you can replay against your own workflow.
+
 ### Links
 
 Client work stays private, so you won't find it in public repos here. My portfolio builds are on my site.
