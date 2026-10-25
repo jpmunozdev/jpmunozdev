@@ -3,10 +3,11 @@
   <img alt="John Munoz. Workflow Automation, Technical VA. Follow-up that doesn't depend on memory." src="assets/banner-light.png">
 </picture>
 
-I build lead follow-up and booking automation in GoHighLevel and n8n for real estate, mortgage, and other appointment-based businesses. I've been doing it since April 2025, including paid client work for a real estate agency and a mortgage loan officer.
+I build automations that take the manual work off a team's plate: CRM setup, lead follow-up, booking, AI calling, and the integrations that connect your tools. Most of my work is in GoHighLevel and n8n. I've been doing it since April 2025, including paid client work for a real estate agency and a mortgage loan officer, and the same systems carry over to any team with repetitive work in its CRM, inbox, or follow-up.
 
 ### What I work on
 
+- GoHighLevel subaccounts, pipelines, custom fields, calendars with round-robin booking, snapshots, and workflows
 - Lead intake, phone and email validation, routing, tagging, and duplicate prevention
 - Campaigns, booking reminders, AI reply handling, and no-show follow-up
 - Voice AI with VAPI and Retell, and GHL AI agents for inbound and outbound leads
